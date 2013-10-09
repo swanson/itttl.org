@@ -1,0 +1,92 @@
+html,
+body {
+  height: 100%;
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -60px;
+  padding: 0 0 60px;
+}
+
+.citation {
+  font-size: 13px;
+}
+
+#footer {
+  height: 60px;
+  line-height: 60px;
+  color: #181818;
+  background-color: #ffffff;
+}
+
+li {
+  line-height: 32px;
+  margin-bottom: 12px;
+}
+
+dt {
+  float: left;
+  width: 110px;
+}
+
+a, b {
+  color: #E04735;
+}
+
+a:hover {
+  color: #E04735;
+}
+
+a:visited {
+  color: #E04735;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+}
+
+.headline {
+  color: #ffffff;
+  background-color: #E04735;
+}
+
+.guts, .teams {
+  background-color: #ffffff;
+  color: #181818;
+}
+
+.join-up {
+  color: #ffffff;
+  background-color: #6F847F;
+}
+
+.join-up h2 {
+  text-align: center;
+  font-family: "Permanent Marker","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 64px;
+  letter-spacing: 5px;
+}
+
+.join-up h3 {
+  text-align: center;
+}
+
+.jumbotron h1 {
+  text-align: center;
+  font-family: "Permanent Marker","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 100px;
+  letter-spacing: 5px;
+} 
+
+h2 {
+  text-align: center;
+}
+
+.guts h3 {
+  text-align: center;
+  font-size: 36px;
+  font-family: "Permanent Marker","Helvetica Neue",Helvetica,Arial,sans-serif;
+}

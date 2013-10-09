@@ -1,0 +1,15 @@
+# General Jekyll Config
+exclude: [".gitignore", "README.md", "Gemfile", "Gemfile.lock", "CNAME"]
+
+teams:
+  - name: SEP
+    url: http://www.sep.com
+    location: Carmel
+    contact: Matt Swanson
+    contact_email: mdswanson@sep.com
+
+  - name: DeveloperTown
+    url: http://www.developertown.com/
+    location: Broad Ripple
+    contact: Jon Nolen
+    contact_email: jon.nolen@developertown.com
